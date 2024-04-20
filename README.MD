@@ -41,6 +41,8 @@ Implemente um programa que verifique se uma palavra é um palíndromo, ou seja, 
 
 Desenvolva uma função que receba uma palavra como entrada e retorne a quantidade de vogais presentes na palavra.
 
+### 💡 Solução: [Contador de Vogais](https://github.com/ArthurRodriguesm/desafios_python_iniciante/blob/main/contador_vogais.py)
+
 ## #7 - Encontrar o maior elemento em uma lista
 
 Escreva um programa que encontre o maior elemento em uma lista de números.
