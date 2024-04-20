@@ -1,3 +1,6 @@
+![Logo do Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
+
 # Desafios Python Iniciante
 
 ## #1 - Calcular a média de uma lista de números: Crie um programa que receba uma lista de números e retorne a média dos valores presentes na lista.
