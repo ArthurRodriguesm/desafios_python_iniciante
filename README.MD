@@ -18,6 +18,8 @@
 
 ## #5 - Verificar se uma palavra é um palíndromo: Implemente um programa que verifique se uma palavra é um palíndromo, ou seja, se pode ser lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.
 
+### 💡 Solução: [Palíndromo](https://github.com/ArthurRodriguesm/desafios_python_iniciante/blob/main/palindromo.py)
+
 ## #6 - Contar a quantidade de vogais em uma palavra: Desenvolva uma função que receba uma palavra como entrada e retorne a quantidade de vogais presentes na palavra.
 
 ## #7 - Encontrar o maior elemento em uma lista: Escreva um programa que encontre o maior elemento em uma lista de números.
