@@ -14,6 +14,8 @@
 
 ## #4 - Calcular o fatorial de um número: Crie uma função que calcule o fatorial de um número dado como entrada.
 
+### 💡 Solução: [Cálculo de Fatorial](https://github.com/ArthurRodriguesm/desafios_python_iniciante/blob/main/fatorial.py)
+
 ## #5 - Verificar se uma palavra é um palíndromo: Implemente um programa que verifique se uma palavra é um palíndromo, ou seja, se pode ser lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.
 
 ## #6 - Contar a quantidade de vogais em uma palavra: Desenvolva uma função que receba uma palavra como entrada e retorne a quantidade de vogais presentes na palavra.
